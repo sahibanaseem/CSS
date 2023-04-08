@@ -1,0 +1,19 @@
+p{
+    color:red;
+}
+
+#s{
+    color:green;
+}
+
+.pink-text{
+           color: palevioletred;
+}
+ 
+#h{
+    font-size:30px;
+}
+
+.underline{
+    text-decoration: underline;
+}
